@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "Game1",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "2",
+    "name": "Game2",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "3",
+    "name": "Game3",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "4",
+    "name": "Game4",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "5",
+    "name": "Game5",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "6",
+    "name": "Game6",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "7",
+    "name": "Game7",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "8",
+    "name": "Game8",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  },
+  {
+    "id": "9",
+    "name": "Game9",
+    "score_url": "url1",
+    "duration_url": "url2",
+    "prices_urls": ["url3","url4","url5"]
+  }
+]
