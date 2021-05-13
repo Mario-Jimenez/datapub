@@ -1,65 +1,1721 @@
 [
   {
+    "id": "0",
+    "name": "Age of Empires IV",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/age-of-empires-iv/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=48733",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1466860/Age_of_Empires_IV/?cc=us"
+      }
+    ]
+  },
+  {
     "id": "1",
-    "name": "Game1",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Outriders",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/outriders/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=68276",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Outriders-Day-One-C%C3%B3digo-juegos/dp/B08X6KB7S7/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Outriders&qid=1620852635&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/680420/OUTRIDERS/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0082-PPSA01778_00-6924922068772381"
+      }
+    ]
   },
   {
     "id": "2",
-    "name": "Game2",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Resident Evil 8: Village",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-5/resident-evil-village/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=80038",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/Resident-Evil-Village-Deluxe-PlayStation/dp/B08TR5R8S4/ref=sr_1_2_sspa?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Resident+Evil+8%3A+Village&qid=1620853102&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSUw2VlQ2MDlLVEhTJmVuY3J5cHRlZElkPUEwODUxMzY1MlpLU0ZVMU9OVDZJMyZlbmNyeXB0ZWRBZElkPUEwOTkzNjIxMUVITDNMTlZNSEJVQyZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1196590/Resident_Evil_Village/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0102-PPSA01556_00-VILLAGEFULLGAMEX"
+      }
+    ]
   },
   {
     "id": "3",
-    "name": "Game3",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Diablo II: Resurrected",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/diablo-ii/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=88869",
+    "prices_urls": []
   },
   {
     "id": "4",
-    "name": "Game4",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Record of Lodoss War",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/dreamcast/record-of-lodoss-war/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=7671",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1203630/Record_of_Lodoss_War_Deedlit_in_Wonder_Labyrinth/?cc=us"
+      }
+    ]
   },
   {
     "id": "5",
-    "name": "Game5",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Evil Genius 2: World Domination",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/evil-genius-2-world-domination/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=68192",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Karl-Stock-ebook/dp/B0919WL7LY/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Evil+Genius+2%3A+World+Domination&qid=1620853625&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/700600/Evil_Genius_2_World_Domination/?cc=us"
+      }
+    ]
   },
   {
     "id": "6",
-    "name": "Game6",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Siege Survival: Gloria Victis",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Siege%20Survival%20Gloria%20Victis/results",
+    "duration_url": "https://howlongtobeat.com/game?id=85028",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1167140/Siege_Survival_Gloria_Victis/?cc=us"
+      }
+    ]
   },
   {
     "id": "7",
-    "name": "Game7",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "Narita Boy",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/narita-boy/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=88140",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1069530/Narita_Boy/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4064-CUSA25802_00-NARITABOY0000000"
+      }
+    ]
   },
   {
     "id": "8",
-    "name": "Game8",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "The Elder Scrolls Online: Blackwood",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/the-elder-scrolls-online-blackwood/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=17596",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Elder-Scrolls-Online-Collection-Blackwood-PlayStation/dp/B08V6MSFWL/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Elder+Scrolls+Online%3A+Blackwood&qid=1620853862&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1400970/The_Elder_Scrolls_Online__Blackwood/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1003-CUSA00132_00-BESEFULLPPLTO000"
+      }
+    ]
   },
   {
     "id": "9",
-    "name": "Game9",
-    "score_url": "url1",
-    "duration_url": "url2",
-    "prices_urls": ["url3","url4","url5"]
+    "name": "The Lord of the Rings: Gollum",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/the-lord-of-the-rings---gollum/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=82092",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1265780/The_Lord_of_the_Rings_Gollum/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Paradise Lost",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/postal-2-paradise-lost/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=82657",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/982720/Paradise_Lost/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP5580-CUSA24438_00-PARADISELOSTSIEA"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Oddworld: Soulstorm",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/oddworld-soulstorm/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=80128",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Oddworld-Soulstorm-Day-One-Oddition-PlayStation/dp/B0914PC4NK/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Oddworld%3A+Soulstorm&qid=1620854162&sr=8-1"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4134-PPSA01590_00-8013847526978797"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Overwatch",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/overwatch/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=31590",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Overwatch-Legendary-PlayStation-4/dp/B07D9QWSG1/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Overwatch&qid=1620854247&sr=8-3"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0002-CUSA01842_00-OWLEGENDARY00000"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Cyberpunk 2077",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/cyberpunk-2077/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=2127",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Cyberpunk-2077-PlayStation-4/dp/B08SPZRVGQ/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Cyberpunk+2077&qid=1620854304&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Days Gone",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/days-gone/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=38003",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Days-Gone-PS4/dp/B01GW8XRCG/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Days+Gone&qid=1620854386&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1259420/Days_Gone/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP9000-CUSA08966_00-DAYSGONECOMPLETE"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Disco Elysium",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/disco-elysium/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=57335",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/632470/Disco_Elysium__The_Final_Cut/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP6758-PPSA03268_00-6401393671841114"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "NieR Replicant",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/nier-replicant-ver122474487139/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=6591",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Square-Enix-Nier-Replicant-Ver-1-22474487139-PlayStation/dp/B08K265NX3/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=NieR+Replicant&qid=1620854657&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1113560/NieR_Replicant_ver122474487139/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0082-CUSA18774_00-0000000000000000"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Gamedec",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/gamedec/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=70865",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/917720/Gamedec/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Lust From Beyond",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/lust-from-beyond/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=87486",
+    "prices_urls": []
+  },
+  {
+    "id": "19",
+    "name": "In Sound Mind",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/in-sound-mind/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=81044",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1119980/In_Sound_Mind/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "It Takes Two",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/it-takes-two/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=80199",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1426210/It_Takes_Two/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0006-PPSA02342_00-ITTAKESTWORETAIL"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Spacebase Startopia",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/spacebase-startopia/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=71506",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/840390/Spacebase_Startopia/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2060-PPSA02846_00-0000000STARTOPIA"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Tekken 7",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/tekken-7/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=46226",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Namco-PS4-Tekken-7-replen-12067/dp/B071VJFGN4/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Tekken+7&qid=1620855396&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/389730/TEKKEN_7/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0700-CUSA05972_00-000000000TEKKEN7"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Total War: Rome Remastered",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/total-war-rome-remastered/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=71506",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/885970/Total_War_ROME_REMASTERED/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Super Seducer 2",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/super-seducer-2/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=64207",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/863570/Super_Seducer_2__Advanced_Seduction_Tactics/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Warhammer Age of Sigmar Stormground",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Warhammer%20Age%20of%20Sigmar%20Stormground/results",
+    "duration_url": "https://howlongtobeat.com/game?id=10547",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1233590/Warhammer_Age_of_Sigmar_Storm_Ground/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4133-CUSA24704_00-WHAOSSTORMGROUND"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "Star Citizen",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/star-citizen/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=9028",
+    "prices_urls": []
+  },
+  {
+    "id": "27",
+    "name": "Immortals Fenyx Rising",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-5/immortals-fenyx-rising/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=68236",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Immortals-Fenyx-Rising-PlayStation-4-Standard/dp/B07SFZV3BN/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Immortals+Fenyx+Rising&qid=1620855815&sr=8-2"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-PPSA01507_00-GAME000000000000"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Black Desert Online",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/black-desert-online/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=46467",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/706220/Black_Desert_Online_SA/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Heroes of the Storm",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/heroes-of-the-storm/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=23199",
+    "prices_urls": []
+  },
+  {
+    "id": "30",
+    "name": "Valheim",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/valheim/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=87873",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/892970/Valheim/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "The Day Before",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/scrap-garden-the-day-before/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=40427",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1372880/The_Day_Before/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Loop Hero",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/loop-hero/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=86112",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1282730/Loop_Hero/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Fortnite",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/switch/fortnite/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=3657",
+    "prices_urls": [
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1477-CUSA07022_00-FORTNITETESTING1"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Rainbow Six: Siege",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/tom-clancys-rainbow-six-siege/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=21279",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-PPSA01396_00-RAINBOWSIXSIEGE0"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Assassin's Creed Valhalla",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Assassin%27s%20Creed%20Valhalla/results",
+    "duration_url": "https://howlongtobeat.com/game?id=77729",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Assassins-Creed-Valhalla-Twister-Parent/dp/B087XTT5GZ/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Assassin%27s+Creed+Valhalla&qid=1620856264&sr=8-2"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-PPSA01491_00-GAME000000000000"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Shadow Man Remastered",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/shadow-man-remastered/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=91163",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1413870/Shadow_Man_Remastered/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Frozenheim",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/frozenheim/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1134100/Frozenheim/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Microsoft Flight Simulator",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/microsoft-flight-simulator/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=70960",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/dp/B08DJG4XTX/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Microsoft+Flight+Simulator&qid=1620856418&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "For Honor",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/for-honor/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=36385",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/304390/FOR_HONOR/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA05218_00-FHGAMEPS40000001"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Enlisted",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-5/enlisted/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=91386",
+    "prices_urls": [
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4432-PPSA03052_00-8303139416716827"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Street Fighter V",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/street-fighter-v-arcade-edition/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=33284",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Street-Fighter-V-Champion-PlayStation-4/dp/B081P74CMG/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Street+Fighter+V&qid=1620856596&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/310950/Street_Fighter_V/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0102-CUSA01200_00-SF5FULLGAME00000"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Hood: Outlaws and Legends",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/hood-outlaws-legends/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/927350/Hood_Outlaws__Legends/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4133-PPSA02170_00-00000000HOODGAME"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Paragon",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/paragon/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=65861",
+    "prices_urls": []
+  },
+  {
+    "id": "44",
+    "name": "Mass Effect: Legendary Edition",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/mass-effect-legendary-edition/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=84851",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Edici%C3%B3n-legendaria-Mass-Effect/dp/B08MXTDGN6/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Mass+Effect%3A+Legendary+Edition&qid=1620856732&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0006-CUSA19500_00-METR000000000000"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "The Witcher 3: Wild Hunt",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/the-witcher-3-wild-hunt/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=10270",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Witcher-3-Wild-Hunt-PS4/dp/B00BT9DU0I/ref=sr_1_9?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Witcher+3%3A+Wild+Hunt&qid=1620856798&sr=8-9"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4497-CUSA00527_00-0000000000000002"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "Destiny 2",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/destiny-2/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=43894",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1085660/Destiny_2/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0002-PPSA02409_00-DESTINYTHEGAME02"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "The First Tree",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/the-first-tree-console-edition/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=49102",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/555150/The_First_Tree/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4699-CUSA11699_00-THEFIRSTTREEGAME"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "Hand of Fate",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/hand-of-fate/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=20740",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/266510/Hand_of_Fate/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2182-CUSA01503_00-0000000000000000"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Watch Dogs",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/watch-dogs-legion/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=11101",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Watch-Dogs-PlayStation-4/dp/B00BI83EVU/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Watch+Dogs&qid=1620857167&sr=8-5"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/243470/Watch_Dogs/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA00021_00-WATCHDOGS0000000"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Dragon Ball Fighter Z",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Dragon%20Ball%20Fighter%20Z/results",
+    "duration_url": "https://howlongtobeat.com/game?id=48211",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Dragon-Ball-Fighterz-PlayStation-4/dp/B0793GS8NL/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Dragon+Ball+Fighter+Z&qid=1620857220&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/678950/DRAGON_BALL_FighterZ/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0700-CUSA09072_00-DBPROJECTZGOKU18"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "King's Bounty 2",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/switch/kings-bounty-ii/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=72264",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/dp/B094BXJ9SK/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=King%27s+Bounty+2&qid=1620857274&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1135300/Kings_Bounty_II/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "Alien Isolation",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/alien-isolation/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=16638",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Alien-Isolation-PS4/dp/B00HQCQ1RQ/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Alien+Isolation&qid=1620857409&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/214490/Alien_Isolation/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0177-CUSA00363_00-ALIENISOLATIONP4"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Balan Wonderworld",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-5/balan-wonderworld/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=81120",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Balan-Wonderworld-PS4/dp/B08JHNFVMY/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Balan+Wonderworld&qid=1620857492&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1341050/BALAN_WONDERWORLD/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0082-PPSA02057_00-BALANWW5A0000001"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "DOOM",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/doom/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=2708",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/379720/DOOM/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1003-CUSA02085_00-DOOMNORTHAMERICA"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Battleborn",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/battleborn/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=19873",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Battleborn-PS4/dp/B01F4D4UJE/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Battleborn&qid=1620857582&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/394230/Battleborn/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Undawn",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/undawn/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": []
+  },
+  {
+    "id": "57",
+    "name": "Stellaris",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/stellaris/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=37186",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Stellaris-Console-PS4-Playstation-video-game/dp/B087CM7JPX/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Stellaris&qid=1620857648&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/281990/Stellaris/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4139-CUSA07740_00-STELLARISPS4US00"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Biomutant",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/biomutant/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=48568",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Biomutant-PlayStation-4-Standard/dp/B074ZQRG7F/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Biomutant&qid=1620857714&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/597820/BIOMUTANT/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4389-CUSA10041_00-BIOMUTANTEU00001"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Los Pilares de la Tierra",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Los%20Pilares%20de%20la%20Tierra/results",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/234270/Ken_Folletts_The_Pillars_of_the_Earth/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1440-CUSA08329_00-DAENAPOTE0000001"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "Assassin's Creed: Syndicate",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/assassins-creed-syndicate/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=26706",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Assassins-Creed-Syndicate-ps4/dp/B00XHS0NYU/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Assassin%27s+Creed%3A+Syndicate&qid=1620857818&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/368500/Assassins_Creed_Syndicate/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA02389_00-ACVICTORYGAMEPS4"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "New World",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/switch/a-hole-new-world/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=67832",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1063730/New_World/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "No Man's Sky",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/xbox-one/no-mans-sky/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=20074",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/No-Mans-Sky-Beyond-PS4/dp/B07XQJD3GS/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=No+Man%27s+Sky&qid=1620857902&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2034-CUSA04841_00-NMSDIGITAL000001"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "name": "Colony Ship",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/colony-ship-a-post-earth-role-playing-game/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=90797",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/648410/Colony_Ship_A_PostEarth_Role_Playing_Game/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "The Division",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/tom-clancys-the-division/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=20073",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Ubisoft-Division-Xbox-One/dp/B00DDXILBQ/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Division&qid=1620857991&sr=8-5"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA01810_00-THEDIVISION00001"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "Ghost Recon: Breakpoint",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/tom-clancys-ghost-recon-breakpoint/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=67987",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Tom-Clancys-Ghost-Recon-Breakpoint-PS4/dp/B07S1XKYGT/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Ghost+Recon%3A+Breakpoint&qid=1620858059&sr=8-2"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA14405_00-GRW2SCEANORMAL00"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "Splinter Cell: Blacklist",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/tom-clancys-splinter-cell-blacklist/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=12651",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Tom-ClancyS-Splinter-Cell-Blacklist-Standard/dp/B00DZ3XN12/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Splinter+Cell%3A+Blacklist&qid=1620858101&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/235600/Tom_Clancys_Splinter_Cell_Blacklist/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Battlefield: Hardline",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/battlefield-hardline/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=21620",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Battlefield-Hardline-PS3/dp/B073QS3GM7/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Battlefield%3A+Hardline&qid=1620858199&sr=8-5"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1238880/Battlefield_Hardline/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0006-CUSA00625_00-OMAHAOMAHA000000"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "name": "Tower of Fantasy",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/switch/fantasy-tower-defense/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": []
+  },
+  {
+    "id": "69",
+    "name": "Crucible",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/crucible/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=78627",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1571120/Crucible/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Saint's Row 4",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Saint%27s%20Row%204/results",
+    "duration_url": "https://howlongtobeat.com/game?id=12650",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/206420/Saints_Row_IV/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2047-CUSA01164_00-DIGISAINTSROW4NG"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Final Fantasy XIV: A Realm Reborn",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/final-fantasy-xiv-online-a-realm-reborn/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=12654",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Final-Fantasy-XIV-Realm-Reborn/dp/B004CVJWU2/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Final+Fantasy+XIV%3A+A+Realm+Reborn&qid=1620858404&sr=8-5"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "SaGa Frontier Remastered",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/saga-frontier-remastered/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=89575",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/dp/B08ZPKFJQ5/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=SaGa+Frontier+Remastered&qid=1620858515&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1295270/SaGa_Frontier_Remastered/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0082-CUSA26054_00-5410119986676287"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Lost Words: Beyond the Page",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/xbox-one/lost-words-beyond-the-page/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=68134",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/599610/Lost_Words_Beyond_the_Page/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4735-CUSA13809_00-LOSTWORDSGAME000"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "The Binding of Isaac: Repentance",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/the-binding-of-isaac-repentance/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=87531",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2103-CUSA00792_00-BINDINGOFISAACP4"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Homefront: The Revolution",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/homefront-the-revolution/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=21276",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Homefront-Revolution-PlayStation-4/dp/B00KO97D8E/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2NPWBMRQLBX4V&dchild=1&keywords=homefront+the+revolution+ps4&qid=1620858709&sprefix=Homefront%3A+The+Revolution+%2Caps%2C228&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/223100/Homefront_The_Revolution/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2047-CUSA01012_00-HOMEFRONT2000000"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Hello Neighbor 2",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/hello-neighbor-2/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=64232",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Hello-Neighbor-Hide-Seek-PlayStation-4/dp/B07HGN2PGG/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Hello+Neighbor+2&qid=1620858757&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1321680/Hello_Neighbor_2/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0097-CUSA13974_00-HNHIDEANDSEEK4NA"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Los Sims 4",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/search/all/Los%20Sims%204/results",
+    "duration_url": "https://howlongtobeat.com/game?id=20992",
+    "prices_urls": [
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0006-CUSA09209_00-THESIMS400000000"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "The Medium",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/the-medium/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=78037",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1293160/The_Medium/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Maneater",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/maneater/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=68266",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Maneater-Playstation-4-PS4/dp/B08KX6HYMP/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Maneater&qid=1620858883&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/629820/Maneater/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0115-CUSA14519_00-MANEATER00000001"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "Marvel's Avengers",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/marvels-avengers/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=67961",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Marvels-Avengers-PlayStation-4/dp/B07SFZX5CH/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Marvel%27s+Avengers&qid=1620858934&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/997070/Marvels_Avengers/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0082-PPSA01631_00-0662491250602628"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "FIFA 14",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/fifa-14/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=13752",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/FIFA-14-PlayStation-4/dp/B00CXCCI8A/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3HDSA0SJ6VYDY&dchild=1&keywords=fifa+14+ps4&qid=1620859020&sprefix=FIFA+14+ps%2Caps%2C228&sr=8-2"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "Blasphemous",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/xbox-one/blasphemous/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=62047",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Blasphemous-Deluxe-PlayStation-4/dp/B093G5Y3W4/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Blasphemous&qid=1620859063&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/774361/Blasphemous/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4064-CUSA16275_00-BLASPHEMOUS00000"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Edge of Eternity",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/edge-of-eternity/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=62960",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/269190/Edge_Of_Eternity/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Path of Exile",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/path-of-exile/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=6938",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/238960/Path_of_Exile/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4781-CUSA11924_00-GGGPS4GAMEFULL01"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Monster Hunter: World",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/monster-hunter-world/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=52493",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Monster-Hunter-World-PlayStation-4-Standard/dp/B071G5HZ7F/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Monster+Hunter%3A+World&qid=1620859194&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0102-CUSA07713_00-0000000000000000"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Hitman 3",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/hitman-3/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=79774",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Hitman-III-PS4/dp/B08LF957LY/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Hitman+3&qid=1620859304&sr=8-2"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4572-PPSA01768_00-00000H3000STANDA"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "WildStar",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/wildstar/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=18996",
+    "prices_urls": []
+  },
+  {
+    "id": "88",
+    "name": "Borderlands 3",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/borderlands-3/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=65882",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Borderlands-3-Deluxe-Playstation-4/dp/B07NTWP23K/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Borderlands+3&qid=1620859380&sr=8-2"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/397540/Borderlands_3/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1001-PPSA01462_00-0000000OAKNGSIEA"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "Spacelords",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-5/spacelords/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=63092",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/436180/Spacelords/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2627-CUSA07192_00-RAIDERS000000000"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "King of Seas",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/king-of-seas/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1209410/King_of_Seas/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP4064-CUSA27394_00-KINGOFSEAS000000"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "Land of War - The Beginning",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/land-of-war---the-beginning/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1146300/Land_of_War__The_Beginning/?cc=us"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "Rocket League",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/switch/rocket-league/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=27113",
+    "prices_urls": [
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP2002-CUSA01163_00-ROCKETLEAGUENA01"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "DOOM Eternal",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/doom-eternal/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=57506",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/DOOM-Eternal-Edici%C3%B3n-Est%C3%A1ndar-PlayStation-4/dp/B07HDJLSF2/ref=sr_1_3?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=DOOM+Eternal&qid=1620859676&sr=8-3"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/782330/DOOM_Eternal/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP1003-CUSA13338_00-DOOMETERNALBUNDL"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "PES 2018",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/xbox-360/pro-evolution-soccer-2018/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=49143",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/PES-2018-PS4/dp/B071VVXG1J/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=PES+2018&qid=1620859725&sr=8-1"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Apex Legends",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/apex-legends/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=64753",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/1172470/Apex_Legends/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0006-CUSA12540_00-APEXLEGENDRSPWN1"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Ghost Recon Wildlands",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/playstation-4/tom-clancys-ghost-recon-wildlands/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=43499",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Tom-Clancys-Ghost-Recon-Wildlands-PS4/dp/B00ZGBBVYW/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=Ghost+Recon+Wildlands&qid=1620859838&sr=8-1"
+      },
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/460930/Tom_Clancys_Ghost_Recon_Wildlands/?cc=us"
+      },
+      {
+        "from": "playstation",
+        "url": "https://store.playstation.com/es-cr/product/UP0001-CUSA02902_00-GRWNCSANORMAL000"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "LawBreakers",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/lawbreakers/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=38416",
+    "prices_urls": [
+      {
+        "from": "amazon",
+        "url": "https://www.amazon.com/-/es/Lawbreakers-PS4-Limited-Run-Games-Release/dp/B076C9XJ8K/ref=sr_1_1?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3FL07GO0QT91R&dchild=1&keywords=lawbreakers+ps4&qid=1620860065&sprefix=LawBreakers%2Caps%2C221&sr=8-1"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Path of Exile 2",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/path-of-exile/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/#search",
+    "prices_urls": []
+  },
+  {
+    "id": "99",
+    "name": "Tales of the Neon Sea",
+    "platform": "platform",
+    "base_price": 0.0,
+    "score_url": "https://www.metacritic.com/game/pc/tales-of-the-neon-sea/critic-reviews",
+    "duration_url": "https://howlongtobeat.com/game?id=62997",
+    "prices_urls": [
+      {
+        "from": "steam",
+        "url": "https://store.steampowered.com/app/828740/Tales_of_the_Neon_Sea/?cc=us"
+      }
+    ]
   }
 ]
